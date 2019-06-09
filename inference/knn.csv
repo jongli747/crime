@@ -1,0 +1,146 @@
+Index,Ground truth,knn_raw,knn_smote,knn_random
+0,Murder,True,False,True
+1,Murder,True,False,False
+2,Kidnap,False,False,True
+3,Murder,True,False,False
+4,Murder,True,False,True
+5,Murder,True,False,False
+6,Murder,True,False,True
+7,Murder,True,False,True
+8,Kidnap,False,False,True
+9,Murder,True,False,True
+10,Gang Rape,False,False,True
+11,Murder,True,False,True
+12,Robbery,False,False,True
+13,Murder,True,True,False
+14,Murder,True,False,True
+15,Violence Against Women,False,False,True
+16,Murder,True,True,True
+17,Murder,True,True,True
+18,Murder,True,False,True
+19,Violence Against Women,False,False,True
+20,Murder,True,True,True
+21,Murder,True,False,True
+22,Murder,True,True,True
+23,Murder,True,False,False
+24,Violence Against Women,False,True,True
+25,Robbery,False,False,True
+26,Murder,True,False,True
+27,Murder,True,True,True
+28,Murder,True,False,False
+29,Murder,True,True,True
+30,Violence Against Women,False,False,True
+31,Violence Against Women,False,False,True
+32,Robbery,False,False,True
+33,Violence Against Women,False,True,True
+34,Murder,True,False,True
+35,Murder,True,True,True
+36,Murder,True,False,False
+37,Murder,True,False,True
+38,Murder,True,True,True
+39,Gang Rape,False,False,True
+40,Murder,True,False,True
+41,Murder,True,False,True
+42,Gang Rape,False,True,True
+43,Murder,True,True,True
+44,Robbery,False,False,False
+45,Violence Against Women,False,True,True
+46,Kidnap,False,False,True
+47,Robbery,False,True,True
+48,Murder,True,False,False
+49,Gang Rape,False,False,True
+50,Murder,True,False,False
+51,Murder,True,False,True
+52,Murder,True,False,True
+53,Gang Rape,False,False,True
+54,Kidnap,False,False,True
+55,Kidnap,False,False,True
+56,Murder,True,True,False
+57,Murder,True,False,True
+58,Murder,True,True,True
+59,Robbery,False,True,True
+60,Murder,True,False,True
+61,Murder,True,True,True
+62,Murder,True,False,False
+63,Gang Rape,False,True,True
+64,Murder,True,True,True
+65,Murder,True,True,True
+66,Murder,True,False,True
+67,Robbery,False,True,True
+68,Murder,True,False,True
+69,Murder,True,False,True
+70,Kidnap,False,False,True
+71,Kidnap,False,True,True
+72,Murder,True,False,True
+73,Murder,True,False,True
+74,Murder,True,True,True
+75,Robbery,False,False,True
+76,Robbery,False,False,False
+77,Murder,True,True,True
+78,Gang Rape,False,False,True
+79,Murder,True,False,True
+80,Murder,True,False,True
+81,Murder,True,True,True
+82,Murder,True,True,True
+83,Gang Rape,False,False,False
+84,Robbery,False,False,True
+85,Murder,True,False,True
+86,Murder,True,False,True
+87,Murder,True,True,False
+88,Murder,True,False,False
+89,Robbery,False,False,True
+90,Murder,True,True,True
+91,Murder,True,False,True
+92,Violence Against Women,False,False,True
+93,Murder,True,False,False
+94,Violence Against Women,False,False,True
+95,Murder,True,True,True
+96,Robbery,False,True,True
+97,Violence Against Women,False,False,True
+98,Murder,True,True,False
+99,Murder,True,False,True
+100,Robbery,False,False,True
+101,Murder,True,False,True
+102,Murder,True,True,True
+103,Murder,True,False,True
+104,Murder,True,True,True
+105,Murder,True,True,True
+106,Robbery,False,False,True
+107,Gang Rape,False,True,True
+108,Murder,True,False,True
+109,Robbery,False,True,True
+110,Murder,True,True,True
+111,Murder,True,False,True
+112,Murder,True,True,True
+113,Murder,True,False,True
+114,Murder,True,True,True
+115,Murder,True,False,False
+116,Murder,True,True,True
+117,Murder,True,False,False
+118,Murder,True,True,True
+119,Gang Rape,False,False,True
+120,Murder,True,True,True
+121,Kidnap,False,False,True
+122,Robbery,False,False,True
+123,Murder,True,True,True
+124,Murder,True,True,True
+125,Murder,True,True,True
+126,Murder,True,False,True
+127,Gang Rape,False,True,True
+128,Murder,True,False,True
+129,Murder,True,False,True
+130,Murder,True,False,False
+131,Murder,True,False,True
+132,Robbery,False,False,True
+133,Murder,True,False,False
+134,Murder,True,False,True
+135,Murder,True,True,True
+136,Murder,True,True,True
+137,Murder,True,False,False
+138,Murder,True,True,True
+139,Murder,True,True,True
+140,Murder,True,True,True
+141,Gang Rape,False,False,True
+142,Robbery,False,False,False
+143,Murder,True,False,True
+144,Murder,True,True,True
