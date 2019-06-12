@@ -1,0 +1,141 @@
+Index,Ground truth,rf_raw,rf_smote,rf_random
+0,Violence Against Women,False,True,True
+1,Violence Against Women,False,True,True
+2,Violence Against Women,False,True,True
+3,Violence Against Women,False,True,True
+4,Violence Against Women,False,True,True
+5,Violence Against Women,False,True,True
+6,Violence Against Women,False,True,True
+7,Violence Against Women,False,False,True
+8,Violence Against Women,False,True,True
+9,Violence Against Women,False,False,True
+10,Violence Against Women,False,True,True
+11,Violence Against Women,False,False,True
+12,Violence Against Women,False,True,True
+13,Violence Against Women,False,False,True
+14,Violence Against Women,False,True,True
+15,Violence Against Women,False,True,True
+16,Violence Against Women,False,True,True
+17,Violence Against Women,False,True,True
+18,Violence Against Women,False,True,True
+19,Violence Against Women,False,True,True
+20,Violence Against Women,False,True,True
+21,Violence Against Women,False,True,True
+22,Violence Against Women,False,True,True
+23,Violence Against Women,False,True,True
+24,Violence Against Women,False,True,True
+25,Violence Against Women,False,True,True
+26,Violence Against Women,False,True,True
+27,Violence Against Women,False,True,True
+28,Murder,True,True,True
+29,Murder,True,False,True
+30,Murder,True,True,True
+31,Murder,True,True,True
+32,Murder,True,False,True
+33,Murder,True,True,True
+34,Murder,True,False,True
+35,Murder,True,True,False
+36,Murder,True,False,True
+37,Murder,True,True,True
+38,Murder,True,True,True
+39,Murder,True,True,True
+40,Murder,True,True,True
+41,Murder,True,True,True
+42,Murder,True,False,True
+43,Murder,True,True,True
+44,Murder,True,False,False
+45,Murder,True,True,True
+46,Murder,True,True,True
+47,Murder,True,True,True
+48,Murder,True,False,False
+49,Murder,True,True,True
+50,Murder,True,False,True
+51,Murder,True,True,True
+52,Murder,True,True,True
+53,Murder,True,True,True
+54,Murder,True,True,False
+55,Murder,True,True,True
+56,Gang Rape,False,True,True
+57,Gang Rape,False,True,True
+58,Gang Rape,False,False,True
+59,Gang Rape,False,False,True
+60,Gang Rape,False,True,True
+61,Gang Rape,False,True,True
+62,Gang Rape,False,True,True
+63,Gang Rape,False,True,True
+64,Gang Rape,False,True,True
+65,Gang Rape,False,True,True
+66,Gang Rape,False,True,False
+67,Gang Rape,False,True,True
+68,Gang Rape,False,True,True
+69,Gang Rape,False,False,True
+70,Gang Rape,False,True,True
+71,Gang Rape,False,True,True
+72,Gang Rape,False,False,True
+73,Gang Rape,False,True,True
+74,Gang Rape,False,True,True
+75,Gang Rape,False,True,True
+76,Gang Rape,False,True,True
+77,Gang Rape,False,True,True
+78,Gang Rape,False,True,True
+79,Gang Rape,False,True,True
+80,Gang Rape,False,True,True
+81,Gang Rape,False,True,True
+82,Gang Rape,False,True,True
+83,Gang Rape,False,True,True
+84,Robbery,False,True,True
+85,Robbery,False,True,True
+86,Robbery,False,False,True
+87,Robbery,False,False,True
+88,Robbery,False,True,True
+89,Robbery,False,True,True
+90,Robbery,False,False,True
+91,Robbery,False,True,True
+92,Robbery,False,True,True
+93,Robbery,False,True,False
+94,Robbery,False,False,True
+95,Robbery,False,True,True
+96,Robbery,False,True,True
+97,Robbery,False,True,True
+98,Robbery,False,False,True
+99,Robbery,False,True,True
+100,Robbery,False,True,True
+101,Robbery,False,False,False
+102,Robbery,False,False,True
+103,Robbery,False,True,True
+104,Robbery,False,True,True
+105,Robbery,False,True,True
+106,Robbery,False,True,True
+107,Robbery,False,True,True
+108,Robbery,False,False,True
+109,Robbery,False,True,True
+110,Robbery,False,True,True
+111,Robbery,False,False,False
+112,Kidnap,False,True,True
+113,Kidnap,False,True,True
+114,Kidnap,False,True,True
+115,Kidnap,False,True,True
+116,Kidnap,False,True,True
+117,Kidnap,False,True,True
+118,Kidnap,False,True,True
+119,Kidnap,False,True,True
+120,Kidnap,False,True,True
+121,Kidnap,False,True,True
+122,Kidnap,False,True,True
+123,Kidnap,False,True,True
+124,Kidnap,False,True,True
+125,Kidnap,False,True,True
+126,Kidnap,False,True,True
+127,Kidnap,False,True,True
+128,Kidnap,False,True,True
+129,Kidnap,False,False,True
+130,Kidnap,False,True,True
+131,Kidnap,False,True,True
+132,Kidnap,False,False,True
+133,Kidnap,False,True,True
+134,Kidnap,False,True,True
+135,Kidnap,False,True,True
+136,Kidnap,False,True,True
+137,Kidnap,False,True,True
+138,Kidnap,False,True,True
+139,Kidnap,False,True,True

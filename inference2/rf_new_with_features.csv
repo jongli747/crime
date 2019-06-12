@@ -1,0 +1,141 @@
+Index,Ground truth,rf_raw,rf_smote,rf_random,Police Station,District,DayOfWeek,Month
+0,Violence Against Women,False,True,True,Bhairab Thana,Kishoreganj,Tuesday,June
+1,Violence Against Women,False,True,True,Rupganj Thana,Narayanganj,Wednesday,February
+2,Violence Against Women,False,True,True,Ashulia Thana,Dhaka,Wednesday,May
+3,Violence Against Women,False,True,True,Shibpur Model Thana,Narsingdi,Monday,January
+4,Violence Against Women,False,True,True,Naria Thana,Shariatpur,Friday,June
+5,Violence Against Women,False,True,True,Mirzapur Thana,Tangail,Tuesday,April
+6,Violence Against Women,False,True,True,Charbhadrasan Thana,Faridpur,Tuesday,May
+7,Violence Against Women,False,False,True,Savar Model Thana,Dhaka,Sunday,March
+8,Violence Against Women,False,True,True,Dasar Thana,Madaripur,Tuesday,August
+9,Violence Against Women,False,False,True,Madhabdi Thana,Narsingdi,Monday,March
+10,Violence Against Women,False,True,True,Kalukhali Thana,Rajbari,Sunday,November
+11,Violence Against Women,False,False,True,Munshiganj Thana,Munshiganj,Sunday,March
+12,Violence Against Women,False,True,True,Rajbari Thana,Rajbari,Thursday,August
+13,Violence Against Women,False,False,True,Kaliakair Thana,Gazipur,Saturday,July
+14,Violence Against Women,False,True,True,Narsingdi Model Thana,Narsingdi,Monday,June
+15,Violence Against Women,False,True,True,Saturia Thana,Manikganj,Monday,October
+16,Violence Against Women,False,True,True,Zajira Thana,Shariatpur,Sunday,February
+17,Violence Against Women,False,True,True,Rajoir Thana,Madaripur,Sunday,October
+18,Violence Against Women,False,True,True,Baliakandi Thana,Rajbari,Thursday,August
+19,Violence Against Women,False,True,True,Bhairab Thana,Kishoreganj,Monday,June
+20,Violence Against Women,False,True,True,Fatullah Model Thana,Narayanganj,Friday,November
+21,Violence Against Women,False,True,True,Kaliakair Thana,Gazipur,Saturday,February
+22,Violence Against Women,False,True,True,Rupganj Thana,Narayanganj,Friday,December
+23,Violence Against Women,False,True,True,Sonargaon Thana,Narayanganj,Friday,June
+24,Violence Against Women,False,True,True,Madhukhali Thana,Faridpur,Saturday,January
+25,Violence Against Women,False,True,True,Bhedarganj Thana,Shariatpur,Tuesday,October
+26,Violence Against Women,False,True,True,Singair Thana,Manikganj,Friday,July
+27,Violence Against Women,False,True,True,Palong Model Thana,Shariatpur,Tuesday,March
+28,Murder,True,True,True,Belabo Thana,Narsingdi,Friday,March
+29,Murder,True,False,True,Ghatail Thana,Tangail,Thursday,June
+30,Murder,True,True,True,Keraniganj Model Thana,Dhaka,Saturday,July
+31,Murder,True,True,True,Manikganj Thana,Manikganj,Monday,December
+32,Murder,True,False,True,Joydebpur Thana,Gazipur,Monday,August
+33,Murder,True,True,True,Joydebpur Thana,Gazipur,Monday,December
+34,Murder,True,False,True,Kapasia Thana,Gazipur,Monday,February
+35,Murder,True,True,False,Sonargaon Thana,Narayanganj,Monday,November
+36,Murder,True,False,True,Rajoir Thana,Madaripur,Saturday,March
+37,Murder,True,True,True,Munshiganj Thana,Munshiganj,Thursday,June
+38,Murder,True,True,True,Bondor Thana,Narayanganj,Tuesday,November
+39,Murder,True,True,True,Rupganj Thana,Narayanganj,Saturday,November
+40,Murder,True,True,True,Tongi Thana,Gazipur,Tuesday,March
+41,Murder,True,True,True,Kapasia Thana,Gazipur,Sunday,September
+42,Murder,True,False,True,Bajitpur Thana,Kishoreganj,Tuesday,August
+43,Murder,True,True,True,Savar Model Thana,Dhaka,Monday,June
+44,Murder,True,False,False,Tongi Thana,Gazipur,Saturday,March
+45,Murder,True,True,True,Saltha Thana,Faridpur,Friday,August
+46,Murder,True,True,True,Siddhirganj Thana,Narayanganj,Friday,March
+47,Murder,True,True,True,Tongi Thana,Gazipur,Tuesday,March
+48,Murder,True,False,False,Ashulia Thana,Dhaka,Friday,May
+49,Murder,True,True,True,Tarail Thana,Kishoreganj,Friday,February
+50,Murder,True,False,True,Boalmari Thana,Faridpur,Thursday,October
+51,Murder,True,True,True,Sakhipur Thana,Tangail,Wednesday,July
+52,Murder,True,True,True,Madhupur Thana,Tangail,Friday,May
+53,Murder,True,True,True,Basail Thana,Tangail,Monday,February
+54,Murder,True,True,False,Narayanganj Model Thana,Narayanganj,Saturday,June
+55,Murder,True,True,True,Araihazar Thana,Narayanganj,Friday,December
+56,Gang Rape,False,True,True,Rajoir Thana,Madaripur,Saturday,April
+57,Gang Rape,False,True,True,Kotalipara Thana,Gopalganj,Friday,April
+58,Gang Rape,False,False,True,Munshiganj Thana,Munshiganj,Thursday,April
+59,Gang Rape,False,False,True,Madaripur Thana,Madaripur,Wednesday,April
+60,Gang Rape,False,True,True,Kotwali Thana,Faridpur,Sunday,October
+61,Gang Rape,False,True,True,Sreenagar Thana,Munshiganj,Saturday,March
+62,Gang Rape,False,True,True,Joydebpur Thana,Gazipur,Sunday,November
+63,Gang Rape,False,True,True,Kaliakair Thana,Gazipur,Friday,October
+64,Gang Rape,False,True,True,Manikganj Thana,Manikganj,Friday,May
+65,Gang Rape,False,True,True,Siddhirganj Thana,Narayanganj,Wednesday,November
+66,Gang Rape,False,True,False,Kalihati Thana,Tangail,Saturday,April
+67,Gang Rape,False,True,True,Kotalipara Thana,Gopalganj,Saturday,March
+68,Gang Rape,False,True,True,Kaliakair Thana,Gazipur,Saturday,June
+69,Gang Rape,False,False,True,Rajoir Thana,Madaripur,Sunday,July
+70,Gang Rape,False,True,True,Mithamain Thana,Kishoreganj,Thursday,March
+71,Gang Rape,False,True,True,Bhanga Thana,Faridpur,Friday,July
+72,Gang Rape,False,False,True,Delduar Thana,Tangail,Monday,June
+73,Gang Rape,False,True,True,Savar Model Thana,Dhaka,Friday,September
+74,Gang Rape,False,True,True,Rupganj Thana,Narayanganj,Friday,August
+75,Gang Rape,False,True,True,Kaliakair Thana,Gazipur,Tuesday,July
+76,Gang Rape,False,True,True,Siddhirganj Thana,Narayanganj,Wednesday,August
+77,Gang Rape,False,True,True,Ghior Thana,Manikganj,Friday,June
+78,Gang Rape,False,True,True,Monohardi Thana,Narsingdi,Saturday,September
+79,Gang Rape,False,True,True,Shibpur Model Thana,Narsingdi,Thursday,February
+80,Gang Rape,False,True,True,Karimganj Thana,Kishoreganj,Sunday,September
+81,Gang Rape,False,True,True,Baliakandi Thana,Rajbari,Tuesday,May
+82,Gang Rape,False,True,True,Ashulia Thana,Dhaka,Tuesday,March
+83,Gang Rape,False,True,True,Kotalipara Thana,Gopalganj,Thursday,October
+84,Robbery,False,True,True,Ashulia Thana,Dhaka,Monday,July
+85,Robbery,False,True,True,Joydebpur Thana,Gazipur,Tuesday,September
+86,Robbery,False,False,True,Madhabdi Thana,Narsingdi,Monday,December
+87,Robbery,False,False,True,Mirzapur Thana,Tangail,Friday,September
+88,Robbery,False,True,True,Ashulia Thana,Dhaka,Wednesday,November
+89,Robbery,False,True,True,Palash Thana,Narsingdi,Sunday,March
+90,Robbery,False,False,True,Narsingdi Thana,Narsingdi,Sunday,February
+91,Robbery,False,True,True,Savar Model Thana,Dhaka,Monday,August
+92,Robbery,False,True,True,Joydebpur Thana,Gazipur,Tuesday,October
+93,Robbery,False,True,False,Palash Thana,Narsingdi,Tuesday,October
+94,Robbery,False,False,True,South Keraniganj Thana,Dhaka,Sunday,July
+95,Robbery,False,True,True,Sirajdikhan Thana,Munshiganj,Thursday,November
+96,Robbery,False,True,True,Louhajong Thana,Munshiganj,Tuesday,October
+97,Robbery,False,True,True,Keraniganj Model Thana,Dhaka,Thursday,July
+98,Robbery,False,False,True,Singair Thana,Manikganj,Wednesday,January
+99,Robbery,False,True,True,Kuliarchar Thana,Kishoreganj,Tuesday,July
+100,Robbery,False,True,True,Savar Model Thana,Dhaka,Tuesday,February
+101,Robbery,False,False,False,Joydebpur Thana,Gazipur,Wednesday,May
+102,Robbery,False,False,True,Kashiani Thana,Gopalganj,Wednesday,February
+103,Robbery,False,True,True,Joydebpur Thana,Gazipur,Saturday,March
+104,Robbery,False,True,True,Dhamrai Thana,Dhaka,Friday,September
+105,Robbery,False,True,True,Kotwali Thana,Faridpur,Tuesday,February
+106,Robbery,False,True,True,Ashulia Thana,Dhaka,Monday,February
+107,Robbery,False,True,True,Ghior Thana,Manikganj,Monday,June
+108,Robbery,False,False,True,Sonargaon Thana,Narayanganj,Monday,April
+109,Robbery,False,True,True,Pangsha Model Thana,Rajbari,Wednesday,September
+110,Robbery,False,True,True,Madhupur Thana,Tangail,Wednesday,May
+111,Robbery,False,False,False,Madhabdi Thana,Narsingdi,Monday,March
+112,Kidnap,False,True,True,Narsingdi Thana,Narsingdi,Thursday,July
+113,Kidnap,False,True,True,Naria Thana,Shariatpur,Tuesday,June
+114,Kidnap,False,True,True,Narsingdi Thana,Narsingdi,Tuesday,July
+115,Kidnap,False,True,True,Kaliakair Thana,Gazipur,Thursday,March
+116,Kidnap,False,True,True,Munshiganj Thana,Munshiganj,Sunday,April
+117,Kidnap,False,True,True,Savar Model Thana,Dhaka,Thursday,August
+118,Kidnap,False,True,True,Tongi Thana,Gazipur,Monday,May
+119,Kidnap,False,True,True,Bajitpur Thana,Kishoreganj,Monday,February
+120,Kidnap,False,True,True,Madaripur Thana,Madaripur,Thursday,October
+121,Kidnap,False,True,True,Savar Model Thana,Dhaka,Sunday,October
+122,Kidnap,False,True,True,Kashiani Thana,Gopalganj,Sunday,October
+123,Kidnap,False,True,True,Bhuapur Thana,Tangail,Tuesday,June
+124,Kidnap,False,True,True,Kashiani Thana,Gopalganj,Monday,December
+125,Kidnap,False,True,True,Bhuapur Thana,Tangail,Tuesday,June
+126,Kidnap,False,True,True,Madhabdi Thana,Narsingdi,Saturday,July
+127,Kidnap,False,True,True,Kalkini Thana,Madaripur,Friday,August
+128,Kidnap,False,True,True,Narayanganj Model Thana,Narayanganj,Monday,July
+129,Kidnap,False,False,True,Munshiganj Thana,Munshiganj,Wednesday,March
+130,Kidnap,False,True,True,Palong Model Thana,Shariatpur,Monday,April
+131,Kidnap,False,True,True,Gopalganj Thana,Gopalganj,Wednesday,March
+132,Kidnap,False,False,True,Kalihati Thana,Tangail,Wednesday,September
+133,Kidnap,False,True,True,Narsingdi Thana,Narsingdi,Wednesday,July
+134,Kidnap,False,True,True,Tongi Thana,Gazipur,Saturday,July
+135,Kidnap,False,True,True,Kotwali Thana,Faridpur,Tuesday,December
+136,Kidnap,False,True,True,Rajoir Thana,Madaripur,Thursday,July
+137,Kidnap,False,True,True,Sreenagar Thana,Munshiganj,Thursday,January
+138,Kidnap,False,True,True,Singair Thana,Manikganj,Friday,February
+139,Kidnap,False,True,True,Nawabganj Thana,Dhaka,Tuesday,April
